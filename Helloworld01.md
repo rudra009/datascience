@@ -19,7 +19,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "*I am interested in data science because I do study economics and would like to be in data analysis.*"
+    "*I am interested in data science because  like to be in data analysis.*"
    ]
   },
   {
